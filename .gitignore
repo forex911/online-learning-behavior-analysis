@@ -56,10 +56,6 @@ Thumbs.db
 *.cache
 *.tmp
 
-# ==============================
-# Reports (optional)
-# ==============================
-reports/*.pdf
 
 # ==============================
 # Power BI / Large Files (optional)
